@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CustomerManager
+comment1.params=
+comment1.target=CustomerManager()
+comment2.params=customerCompanyZip\ customerFirstName\ customerLastName\ customerCompanyName\ customerCompanyStreet\ customerCompanyCity\ customerCompanyState
+comment2.target=void\ addCustomer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=customerNumber\ websiteName\ websiteDesign\ feature1\ feature2\ feature3\ feature4\ feature5
+comment3.target=void\ addWebsite(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment4.params=customerNumber
+comment4.target=void\ printCustomerBill(java.lang.String)
+comment5.params=customerNumber
+comment5.target=int\ calculateCustomerBill(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ generateCustomerNumber()
+comment7.params=customerNumber
+comment7.target=boolean\ validateCustomerNumber(java.lang.String)
+numComments=8
